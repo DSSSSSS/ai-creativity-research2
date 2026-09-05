@@ -9,7 +9,7 @@ import re
 import gensim
 import scipy.spatial.distance
 
-DEFAULT_MODEL = r'D:\DevProjects\repo\Creativity-BasedOn-Semantic-Toolbox\cc.zh.300.bin'
+DEFAULT_MODEL = r'C:\Users\lenovo\Desktop\ai-creativity-research\data\model\cc.zh.300.bin'
 DEFAULT_DICTIONARY = os.path.join(os.path.dirname(__file__), "words.txt")
 
 class Model:
